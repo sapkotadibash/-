@@ -69,9 +69,12 @@ default:
 			
 		}
 		
+		String learn = "Dibash";
+		String java = "is learning java";
+		String learnjava = "learn"+"java";
+		thank you
 		
 		
 		
-		
-}}
+	}}
 
